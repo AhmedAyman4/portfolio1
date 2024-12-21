@@ -51,15 +51,6 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 ##  Projects
 
-* **HR Analytics in Tableau** ([link](https://github.com/AhmedAyman4/HR-Analytics-in-Tableau))
-
-    * ![HR Dashboard](assets/img/HR%20Dasboard.png)
-
-    *   **Key Metrics Visualization:** I visualized core HR metrics, including total employees (1,470), current employees (1,233), past employees (237), and a calculated attrition rate of 16.1%, within a dedicated “Overview” section to provide a high-level snapshot of workforce composition.
-    *   **Attrition Trend Analysis:** I developed charts to analyze attrition trends across various dimensions, specifically “Attrition by Hire Date,” “Attrition by Travel,” and “Attrition by Tenure,” aiming to provide insights into the timing and potential drivers of employee departures.
-    *   **Hiring Trend Visualization:** I incorporated a “Hiring Trends” chart, displaying hiring activity over time from 2015 to 2023, to illustrate the company’s growth trajectory and recruitment patterns, offering context to workforce changes.
-    *   **Demographic Profile Presentation:** I presented key demographic information within a “Demographics” section, including age distribution (with an observed peak around age 44) and a breakdown by an additional category (potentially gender or department), to provide a deeper understanding of the workforce composition.
-
 * **Customer Segmentation in Marketing** ([link](https://github.com/AhmedAyman4/Customer-Segmentation-in-Marketing-with-Python))
 
     * Conducted data analysis to evaluate the impact of acquisition channels on engagement and retention.
@@ -73,6 +64,14 @@ I leverage advanced Python and machine learning techniques to extract actionable
     * **Model Training and Evaluation**: Developed predictive models using various machine learning algorithms (e.g., GradientBoostingClassifier, RandomForestClassifier) and evaluated their performance through metrics such as accuracy, AUC scores, and confusion matrices to determine the most effective model.
     * **Insights and Recommendations**: Derived actionable insights from data analysis and model evaluation, suggesting that advertising and website engagement metrics are stronger predictors of customer conversion than demographic features, and recommended GradientBoostingClassifier for its high predictive performance.
 
+* **HR Analytics in Tableau** ([link](https://github.com/AhmedAyman4/HR-Analytics-in-Tableau))
+
+    * ![HR Dashboard](assets/img/HR%20Dasboard.png)
+
+    *   **Key Metrics Visualization:** I visualized core HR metrics, including total employees (1,470), current employees (1,233), past employees (237), and a calculated attrition rate of 16.1%, within a dedicated “Overview” section to provide a high-level snapshot of workforce composition.
+    *   **Attrition Trend Analysis:** I developed charts to analyze attrition trends across various dimensions, specifically “Attrition by Hire Date,” “Attrition by Travel,” and “Attrition by Tenure,” aiming to provide insights into the timing and potential drivers of employee departures.
+    *   **Hiring Trend Visualization:** I incorporated a “Hiring Trends” chart, displaying hiring activity over time from 2015 to 2023, to illustrate the company’s growth trajectory and recruitment patterns, offering context to workforce changes.
+    *   **Demographic Profile Presentation:** I presented key demographic information within a “Demographics” section, including age distribution (with an observed peak around age 44) and a breakdown by an additional category (potentially gender or department), to provide a deeper understanding of the workforce composition.
 
 * **Analyzing Customer Churn in Tableau** ([link](https://github.com/AhmedAyman4/Analyzing-Customer-Churn-in-Tableau))
 

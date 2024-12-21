@@ -5,7 +5,9 @@
 ---
 
 I leverage advanced Python and machine learning techniques to extract actionable insights from complex data, empowering businesses to make informed decisions.
+
 [My Resume](assets/img/Resume.pdf)
+
 ---
 
 ## 🎓 Education

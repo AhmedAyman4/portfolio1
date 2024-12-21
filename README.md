@@ -53,8 +53,7 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 * **HR Analytics in Tableau** ([link](https://github.com/AhmedAyman4/HR-Analytics-in-Tableau))
 
-![HR Dashboard](assets/img/HR%20Dasboard.png)
-*
+    * ![HR Dashboard](assets/img/HR%20Dasboard.png)
     * I visualized key HR metrics, including total employees (1,470), current employees (1,233), past employees (237), and an attrition rate of 16.1%, within an "Overview" section.
     * I created charts to analyze attrition trends, specifically "Attrition by Hire Date," "Attrition by Travel," and "Attrition by Tenure," providing insights into when and why employees are leaving.
     * I included a "Hiring Trends" chart, likely displaying the number of hires over time, from 2015 to 2023, to show the company's growth and recruitment patterns.

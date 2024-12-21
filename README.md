@@ -1,11 +1,11 @@
 # Ahmed Ayman - Aspiring Data Scientist
 
-📍 Cairo, Egypt | 📧 [ahmedalhofy42@gmail.com](mailto:ahmedalhofy42@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-alhofy/) | [GitHub](https://github.com/AhmedAyman4) | [Resume](assets/img/Resume.pdf)
+📍 Cairo, Egypt | 📧 [ahmedalhofy42@gmail.com](mailto:ahmedalhofy42@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-alhofy/) | [GitHub](https://github.com/AhmedAyman4)
 
 ---
 
 I leverage advanced Python and machine learning techniques to extract actionable insights from complex data, empowering businesses to make informed decisions.
-
+[My Resume](assets/img/Resume.pdf)
 ---
 
 ## 🎓 Education
@@ -16,22 +16,47 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 ## 🔧 Skills
 
-**Programming & Tools:** Python, SQL, MySQL, Excel, Tableau, Power BI
+**Programming & Tools:**
 
-**Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, NLTK, SpaCy
+*   Python
+*   SQL
+*   MySQL
+*   Excel
+*   Tableau
+*   Power BI
 
-**Core Concepts:** Machine Learning, NLP, Data Analysis, Data Structures, Probability & Statistics, OOP, C++
+**Data Science Libraries:**
+
+*   NumPy
+*   Pandas
+*   Matplotlib
+*   Seaborn
+*   Scikit-learn
+*   NLTK
+*   SpaCy
+
+**Core Concepts:**
+
+*   Machine Learning
+*   NLP (Natural Language Processing)
+*   Data Analysis
+*   Data Structures
+*   Probability & Statistics
+*   OOP (Object-Oriented Programming)
+*   C++
 
 ---
 
 ##  Projects
 
 * **Customer Segmentation in Marketing** ([link](https://github.com/AhmedAyman4/Customer-Segmentation-in-Marketing-with-Python))
+
     * Conducted data analysis to evaluate the impact of acquisition channels on engagement and retention.
     * Utilized clustering for customer segmentation and developed targeted marketing strategies.
     * Created visualizations to communicate insights effectively for data-driven decision-making.
 
 * **Customer Conversion Prediction** ([link](https://github.com/AhmedAyman4/Predictive-Model-for-Customer-Conversion))
+
     * **Business Understanding and Goal Definition**: Analyzed the customer conversion problem and defined the objective of predicting potential customers likely to convert, enabling businesses to optimize marketing strategies through targeted advertising, personalized campaigns, and effective customer segmentation.
     * **Exploratory Data Analysis (EDA)**: Conducted in-depth EDA to identify key factors influencing customer conversions, such as AdSpend, Click-Through Rate, and TimeOnSite, while highlighting correlations between website engagement and conversion rates.
     * **Model Training and Evaluation**: Developed predictive models using various machine learning algorithms (e.g., GradientBoostingClassifier, RandomForestClassifier) and evaluated their performance through metrics such as accuracy, AUC scores, and confusion matrices to determine the most effective model.
@@ -39,6 +64,7 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 
 * **Analyzing Customer Churn in Tableau** ([link](https://github.com/AhmedAyman4/Analyzing-Customer-Churn-in-Tableau))
+
     * Analyzed customer churn data to identify attrition drivers.
     * Created interactive Tableau dashboards with dual-axis graphs and scatter plots.
     * Delivered actionable insights through compelling data stories.

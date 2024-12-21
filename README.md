@@ -54,10 +54,11 @@ I leverage advanced Python and machine learning techniques to extract actionable
 * **HR Analytics in Tableau** ([link](https://github.com/AhmedAyman4/HR-Analytics-in-Tableau))
 
     * ![HR Dashboard](assets/img/HR%20Dasboard.png)
-    * I visualized key HR metrics, including total employees (1,470), current employees (1,233), past employees (237), and an attrition rate of 16.1%, within an "Overview" section.
-    * I created charts to analyze attrition trends, specifically "Attrition by Hire Date," "Attrition by Travel," and "Attrition by Tenure," providing insights into when and why employees are leaving.
-    * I included a "Hiring Trends" chart, likely displaying the number of hires over time, from 2015 to 2023, to show the company's growth and recruitment patterns.
-    * I presented demographic information, such as age distribution (showing a peak around age 44) and a breakdown by an unspecified category (possibly gender or department), in the "Demographics" section.
+
+    *   **Key Metrics Visualization:** I visualized core HR metrics, including total employees (1,470), current employees (1,233), past employees (237), and a calculated attrition rate of 16.1%, within a dedicated “Overview” section to provide a high-level snapshot of workforce composition.
+    *   **Attrition Trend Analysis:** I developed charts to analyze attrition trends across various dimensions, specifically “Attrition by Hire Date,” “Attrition by Travel,” and “Attrition by Tenure,” aiming to provide insights into the timing and potential drivers of employee departures.
+    *   **Hiring Trend Visualization:** I incorporated a “Hiring Trends” chart, displaying hiring activity over time from 2015 to 2023, to illustrate the company’s growth trajectory and recruitment patterns, offering context to workforce changes.
+    *   **Demographic Profile Presentation:** I presented key demographic information within a “Demographics” section, including age distribution (with an observed peak around age 44) and a breakdown by an additional category (potentially gender or department), to provide a deeper understanding of the workforce composition.
 
 * **Customer Segmentation in Marketing** ([link](https://github.com/AhmedAyman4/Customer-Segmentation-in-Marketing-with-Python))
 
